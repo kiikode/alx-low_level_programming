@@ -7,3 +7,4 @@
 6. Print all single digit numbers of base 10
 7. Print all single digit nubmers in base 10 using putchar
 8. Print the lowercase alphabets in reverse
+9. Print all numbers of base 16 in lowercase
