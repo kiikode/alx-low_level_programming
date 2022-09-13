@@ -6,3 +6,4 @@
 5. Print all the alphabets in lowercase except *q* and *e*
 6. Print all single digit numbers of base 10
 7. Print all single digit nubmers in base 10 using putchar
+8. Print the lowercase alphabets in reverse
