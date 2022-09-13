@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int i, e, g, g, op1, op2;
+	int i, e, g, op1, op2;
 
 	i = e = g = h = 48;
 	while (h < 58)
