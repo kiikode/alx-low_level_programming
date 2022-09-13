@@ -13,4 +13,5 @@ int main(void)
 		printf("%d\n", i);
 		i = i + 1;
 	}
+	return (0);
 }
