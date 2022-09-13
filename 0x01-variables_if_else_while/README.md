@@ -4,3 +4,4 @@
 3. Print the alphabets in lowercase
 4. Print the alphabets in lowercase, followed by in uppercase
 5. Print all the alphabets in lowercase except *q* and *e*
+6. Print all single digit numbers of base 10
