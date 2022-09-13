@@ -10,7 +10,7 @@ int main(void)
 	char alphas[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int b;
 
-	for (b=0; b < 52; b++)
+	for (b = 0; b < 52; b++)
 	{
 		putchar(alphas[b]);
 	}
