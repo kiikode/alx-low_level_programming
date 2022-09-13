@@ -3,3 +3,4 @@
 2. Print the last digit of the number
 3. Print the alphabets in lowercase
 4. Print the alphabets in lowercase, followed by in uppercase
+5. Print all the alphabets in lowercase except *q* and *e*
