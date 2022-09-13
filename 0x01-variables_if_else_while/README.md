@@ -2,3 +2,4 @@
 1. Print whether a number is positive or negative
 2. Print the last digit of the number
 3. Print the alphabets in lowercase
+4. Print the alphabets in lowercase, followed by in uppercase
