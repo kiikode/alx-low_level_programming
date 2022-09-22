@@ -5,3 +5,4 @@
 4. Check for lowercase characters
 5. Check for alphabetic characters
 6. Print the sign of a number
+7. Compute the absolute value of an integer
