@@ -7,13 +7,15 @@
  */
 int _abs(int)
 {
-	if (int < 0)
+	int n;
+
+	if (n < 0)
 	{
-		return(-int);
+		return(-n);
 	}
 	else
 	{
-		return(int);
+		return(n);
 	}
 	_putchar('\n');
 }
