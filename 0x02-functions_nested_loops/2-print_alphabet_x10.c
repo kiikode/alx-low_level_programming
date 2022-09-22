@@ -8,6 +8,7 @@
 void print_alphabet_x10(void)
 {
 	int b, a;
+
 	b = 0;
 
 	while (b < 10)
@@ -17,6 +18,6 @@ void print_alphabet_x10(void)
 			_putchar(a);
 		}
 		_putchar('\n');
+		b++;
 	}
-	b++;
 }
