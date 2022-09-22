@@ -6,3 +6,4 @@
 5. Check for alphabetic characters
 6. Print the sign of a number
 7. Compute the absolute value of an integer
+8. Print the last digit of a number
