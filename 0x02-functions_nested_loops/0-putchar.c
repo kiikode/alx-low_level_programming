@@ -12,7 +12,7 @@ int main(void)
 
 	for (a = 0; a < 8; a++)
 	{
-		putchar(num[a]);
+		_putchar(num[a]);
 	}
 	putchar('\n');
 	return (0);
