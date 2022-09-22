@@ -1,18 +1,18 @@
 #include "main.h"
 
 /**
- * main - Print alphabets in lower case
+ * print_alphabet - Print alphabets in lower case
  *
  * Return : Always 0
  */
-void main(void)
+void print_alphabet(void)
 {
 	char alph[26] = "abcdefghijklmnopqrstuvwxyz";
 	int b;
 
-	for (a = 0; a < 26; a++)
+	for (b = 0; b < 26; b++)
 	{
-		print_alphabet(alph[b]);
+		_putchar(alph[b]);
 	}
 	_putchar('\n');
 }
