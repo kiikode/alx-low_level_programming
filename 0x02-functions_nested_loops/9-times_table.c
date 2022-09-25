@@ -14,7 +14,18 @@ void times_table(void)
 		for (b = 0; b <= 9; b++)
 		{
 			c = a * b;
-			_putchar(c);
+			_putchar(44);
+			_putchar(32);
+			if (c <= 9)
+			{
+				_putchar(32);
+				_putchar(c);
+			}
+			else
+			{
+				_putchar(c / 10);
+				_putchar(c % 10);
+			}
 		}
 		_putchar('\n');
 	}
