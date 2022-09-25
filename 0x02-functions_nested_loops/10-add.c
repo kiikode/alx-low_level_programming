@@ -6,14 +6,9 @@
  * @a: Input any integer
  * @b: Input any integer
  *
- * Return: 0
+ * Return: The sum
  */
 int add(int a, int b)
 {
-	int c;
-
-	c = a + b;
-	_putchar(c);
-	_putchar('\n');
-	return (0);
+	return (a + b);
 }
