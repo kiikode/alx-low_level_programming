@@ -10,3 +10,4 @@
 9. Print every minute of the day of Jack Bauer
 10. Print the 9 times table, starting with 0
 11. Add two integers and return result
+12. Print all natural numbers to 98
