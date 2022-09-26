@@ -11,10 +11,10 @@ int main(void)
 
 	for (a >= 1; a <=1023; a++; b >= 1; b <= 1023; b++)
 	{
-		if ((a % 3 = 0) & (b % 5 = 0))
+		if ((a % 3 == 0) & (b % 5 == 0))
 		{
 			return (a + b);
+			putchar('\n');
 		}
 	}
-	_putchar('\n');
 }
