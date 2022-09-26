@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main - Sum multiples of 3 and 5
+/**
+ * main - Print the sum of multiples of 3 and 5
  *
  * Return: The sum
  */
