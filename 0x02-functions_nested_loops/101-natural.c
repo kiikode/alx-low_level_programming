@@ -9,7 +9,7 @@ int main(void)
 {
 	int a, b;
 
-	while (a < 1024 & b < 1024)
+	while ((a < 1024) && (b < 1024))
 	{
 		if ((a % 3 == 0) & (b % 5 == 0))
 		{
@@ -18,5 +18,9 @@ int main(void)
 		}
 		a++;
 		b++;
+		else
+		{
+			return (void);
+		}
 	}
 }
