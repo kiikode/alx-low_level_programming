@@ -9,18 +9,11 @@ int main(void)
 {
 	int a, b;
 
-	while ((a < 1024) && (b < 1024))
+	for (a >= 1; a <= 1023; a++)
 	{
-		if ((a % 3 == 0) & (b % 5 == 0))
-		{
-			return (a + b);
-			putchar('\n');
-		}
-		a++;
-		b++;
-		else
-		{
-			return (void);
-		}
+		if ((a % 3) == 0 & (a % 5) == 0)
+			b += a;
 	}
+	printf("%d\n", b);
+	return (0);
 }
