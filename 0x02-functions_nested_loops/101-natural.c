@@ -9,12 +9,14 @@ int main(void)
 {
 	int a, b;
 
-	for (a >= 1; a <=1023; a++; b >= 1; b <= 1023; b++)
+	while (a < 1024 & b < 1024)
 	{
 		if ((a % 3 == 0) & (b % 5 == 0))
 		{
 			return (a + b);
 			putchar('\n');
 		}
+		a++;
+		b++;
 	}
 }
