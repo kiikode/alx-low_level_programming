@@ -12,3 +12,4 @@
 11. Add two integers and return result
 12. Print all natural numbers to 98
 13. Print the n times table, starting with 0
+14. Print the sum of all the multiples of 3 or 5
