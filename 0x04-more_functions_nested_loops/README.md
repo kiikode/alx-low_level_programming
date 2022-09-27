@@ -2,3 +2,4 @@
 1. Check for uppercase character
 2. Check for a digit
 3. A function that multiplies two integers
+4. Print the numbers from 0 to 9
