@@ -8,3 +8,4 @@
 7. Draw a straight line
 8. Draw a diagonal line
 9. Print a square
+10. Fizz-Buzz Test
