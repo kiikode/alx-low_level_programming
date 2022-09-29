@@ -6,3 +6,4 @@
 5. Print numbers from 0 to 9 except 2 and 4
 6. Print 10 times the numbers from 0 to 14
 7. Draw a straight line
+8. Draw a diagonal line
