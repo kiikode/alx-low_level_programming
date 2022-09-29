@@ -7,3 +7,4 @@
 6. Print 10 times the numbers from 0 to 14
 7. Draw a straight line
 8. Draw a diagonal line
+9. Print a square
