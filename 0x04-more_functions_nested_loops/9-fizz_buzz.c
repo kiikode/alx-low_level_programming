@@ -12,17 +12,17 @@ int main(void)
 	for (num = 0; num <= 100; num++)
 	{
 		printf("%d ", num);
-		if (num % 3 == 0)
+		for (num % 3 == 0)
 		{
-			printf("Fizz");
+			printf("Fizz ");
 		}
-		else if (num % 5 == 0)
+		for (num % 5 == 0)
 		{
-			printf("Buzz");
+			printf("Buzz ");
 		}
-		else if ((num % 3 == 0) && (num % 5 == 0))
+		if ((num % 3 == 0) && (num % 5 == 0))
 		{
-			printf("FizzBuzz");
+			printf("FizzBuzz ");
 		}
 	}
 	printf('\n');
