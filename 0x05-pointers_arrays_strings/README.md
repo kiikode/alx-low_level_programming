@@ -4,4 +4,5 @@
 3. Return the length of a string
 4. Print a string to stdout
 5. Print a string in reverse
-6. Reverse a string 
+6. Reverse a string
+7. Print every other character of a string, starting from the first 
