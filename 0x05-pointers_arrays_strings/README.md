@@ -3,4 +3,5 @@
 2. Swap the values of two integers
 3. Return the length of a string
 4. Print a string to stdout
-5. Print a string in reverse 
+5. Print a string in reverse
+6. Reverse a string 
