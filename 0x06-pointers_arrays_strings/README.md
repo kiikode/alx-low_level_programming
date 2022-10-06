@@ -8,3 +8,4 @@
 7. Capitalize all words of a string
 8. Encode a string into leet
 9. Encode a string using rot13
+10. Print an integer
