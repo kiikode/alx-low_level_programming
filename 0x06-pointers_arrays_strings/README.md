@@ -10,3 +10,4 @@
 9. Encode a string using rot13
 10. Print an integer
 11. Adding one line of code
+12. Add two numbers
