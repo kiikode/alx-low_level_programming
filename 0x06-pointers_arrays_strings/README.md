@@ -6,3 +6,4 @@
 5. Reverse the content of an array of integers
 6. Change all lowercase letters of a string to uppercase
 7. Capitalize all words of a string
+8. Encode a string into leet
