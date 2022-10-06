@@ -7,4 +7,5 @@
 6. Reverse a string
 7. Print every other character of a string, starting from the first
 8. Print the second half of a string
-9. Print n elements of an array of integers 
+9. Print n elements of an array of integers
+10. A function to copy a string 
