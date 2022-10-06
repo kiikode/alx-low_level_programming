@@ -3,3 +3,4 @@
 2. Concatenate two strings
 3. Copy a string
 4. Compare two strings
+5. Reverse the content of an array of integers
