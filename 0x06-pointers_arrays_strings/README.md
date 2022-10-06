@@ -2,3 +2,4 @@
 1. Concatenate two strings
 2. Concatenate two strings
 3. Copy a string
+4. Compare two strings
