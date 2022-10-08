@@ -6,3 +6,4 @@
 5. A function that returns the value of x raised to the power of y
 6. A function that returns the natural square root of a number
 7. A function that checks for a prime number
+8. A function that checks for a palindrome
