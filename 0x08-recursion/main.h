@@ -9,4 +9,4 @@ int _sqrt_recursion(int n);
 int is_prime(unsigned int a, unsigned int b);
 int is_prime_number(int n);
 int compare(char *s, int n1, int n2);
-int is_palindrome(char *s)
+int is_palindrome(char *s);
