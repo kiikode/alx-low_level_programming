@@ -24,7 +24,7 @@ int is_prime(unsigned int a, unsigned int b)
  * is_prime_number - Detect if a number is a prime number
  *
  * @n: Given number
- * 
+ *
  * Return: 1 if prime, else 0
  */
 int is_prime_number(int n)
