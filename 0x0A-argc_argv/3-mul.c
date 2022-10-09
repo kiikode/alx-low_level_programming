@@ -10,16 +10,17 @@
  */
 int main(int argc, char *argv[])
 {
-	int i, sum;
+	int i, mul;
 
 	for (i = 0; i < argc; i++)
 	{
 		mul = argv[1] * argv[2];
 		if (i < 2)
 		{
-			printf("Error");
+			printf("Error\n");
+			return (1);
 		}
 		printf("%d\n", mul);
 	}
-	return (1);
+	return (0);
 }
