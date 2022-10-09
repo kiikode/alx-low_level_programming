@@ -9,7 +9,7 @@
  *
  * Return: One string
  */
-char str_concat(char *s1, char *s2)
+char *str_concat(char *s1, char *s2)
 {
 	char *new_str;
 	unsigned int a, b, c, limit;
