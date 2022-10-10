@@ -4,3 +4,4 @@
 3. A function that allocates memory of an array
 4. A function that creates an array of integers
 5. A function that reallocates a memory block
+6. A program that multiplies two positive numbers
