@@ -12,7 +12,7 @@
  */
 void _is_zero(char *argv[])
 {
-	int i, n1 = 1, n2 = 1;
+	int a, n1 = 1, n2 = 1;
 
 	for (a = 0; argv[1][a]; a++)
 		if (argv[1][a] != '0')
