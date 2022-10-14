@@ -4,3 +4,4 @@
 3. A function that prints a struct dog
 4. Define a new name for the type struct dog
 5. A function that creates a new dog
+6. A function that frees dogs
