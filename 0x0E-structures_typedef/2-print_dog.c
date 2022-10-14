@@ -4,7 +4,7 @@
 /**
  * print_dog - Print a structure dog
  *
- * @d: 
+ * @d: Struct dog
  *
  * Return: No return
  */
