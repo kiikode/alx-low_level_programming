@@ -2,6 +2,7 @@
 
 /**
  * sum_them_all - Performing addition
+ *
  * @n: Total number
  *
  * Return: The sum
@@ -21,5 +22,6 @@ int sum_them_all(const unsigned int n, ...)
 		sum += va_arg(valist, int);
 
 	va_end(valist);
+
 	return (sum);
 }
