@@ -20,7 +20,13 @@ int main(int argc, char *argv[])
 	}
 
 	operation = get_op_func(argv[2]);
-	if (operation == NULL || operation == '*+/')
+	if (operation == NULL)
+	{
+		printf("Error\n");
+		exit(99);
+	}
+
+	if (operation == '*+/')
 	{
 		printf("Error\n");
 		exit(99);
