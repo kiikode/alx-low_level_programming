@@ -25,13 +25,6 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
-	
-	for (c = 0; c < 6; c++)
-		if (operation != op_t ops[c])
-		{
-			printf("Error\n");
-			exit(99);
-		}
 
 	a = atoi(argv[1]);
 	b = atoi(argv[3]);
