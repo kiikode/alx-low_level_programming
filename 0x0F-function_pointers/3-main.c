@@ -10,7 +10,7 @@
  */
 int main(int argc, char *argv[])
 {
-	int a, b;
+	int a, b, c;
 	int (*operation)(int, int);
 
 	if (argc != 4)
@@ -25,11 +25,13 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
-	else if (operation != op_t ops[])
-	{
-		printf("Error\n");
-		exit(99);
-	}
+	
+	for (c = 0; c < 6; c++)
+		if (operation != op_t ops[c])
+		{
+			printf("Error\n");
+			exit(99);
+		}
 
 	a = atoi(argv[1]);
 	b = atoi(argv[3]);
