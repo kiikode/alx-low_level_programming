@@ -26,12 +26,6 @@ int main(int argc, char *argv[])
 		exit(99);
 	}
 
-	if (operation == '*+/')
-	{
-		printf("Error\n");
-		exit(99);
-	}
-
 	a = atoi(argv[1]);
 	b = atoi(argv[3]);
 
