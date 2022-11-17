@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
-	else if (operation != get_op_func(argv[2]))
+	else if (operation != op_t ops[])
 	{
 		printf("Error\n");
 		exit(99);
